@@ -1,3 +1,10 @@
 . Creando nuestro primer proyecto con control de versiones.
 Siguiendo los pasos en la teoría creamos una carpeta con el nombre de proyecto practicagit con 
 un documento dentro llamado programa.txt
+
+El documento programa.txt irá cambiando e iremos haciendo commits para ver como 
+evoluciona a lo largo del tiempo.
+2.1 Crearemos el documento y realizaremos el commit inicial
+2.2 Crearemos un texto con un primer párrafo en el documento realizando un commit
+2.3 Crearemos un segundo párrafo en el archivo haciendo el commit
+ Entregar la salida de pantalla del comando git log
