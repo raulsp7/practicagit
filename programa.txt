@@ -1,0 +1,3 @@
+. Creando nuestro primer proyecto con control de versiones.
+Siguiendo los pasos en la teoría creamos una carpeta con el nombre de proyecto practicagit con 
+un documento dentro llamado programa.txt
